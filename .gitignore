@@ -1,0 +1,5 @@
+DeepLearningChatbot.pyproj
+DeepLearningChatbot.sln
+__pycache__/
+venv/
+.vs/
