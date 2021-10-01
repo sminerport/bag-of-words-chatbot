@@ -1,1 +1,1 @@
-# bag-of-words
+# bag-of-words chatbot
